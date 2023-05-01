@@ -1,0 +1,1 @@
+A mock HTML tribute page about Itachi Uchiha from Naruto.
